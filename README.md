@@ -11,7 +11,7 @@ commerce platform. Throughout the project I have followed practices in terms of 
 schema and inserting data using Data Definition Language (DDL) and Data Manipulation Language 
 (DML) statements.
 
-Sql Queries with Questions--
+Sql Questions--
 
 --Retrieve the order ID, customer IDs, customer names, and total amounts for orders that have a total amount greater than $1000.
 
